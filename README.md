@@ -31,4 +31,4 @@
 ## 📫 Contato
 
 - Email: vitorperoza320@gmail.com
-- LinkedIn: (www.linkedin.com/in/vitorperoza)
+- LinkedIn: [Vitor Peroza](www.linkedin.com/in/vitorperoza)
