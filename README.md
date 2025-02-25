@@ -1,4 +1,4 @@
-## Hello Word! I'm Vitor Peroza!
+## Hello World! I'm Vitor Peroza!
 
 
 
