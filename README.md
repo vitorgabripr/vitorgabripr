@@ -1,4 +1,4 @@
-
+# About Me:
 🧠 I'm currently studying Computer Science<br>🔥 I'm working on developing my knowledge
 
 
@@ -20,10 +20,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=vitorgabripr&icon=7&color=2)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
----
-[![](https://visitcount.itsvg.in/api?id=vitorgabripr&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
